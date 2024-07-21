@@ -1,6 +1,6 @@
 # Nome do Projeto
 
-![Logo do Projeto](caminho/para/logo.png) <!-- Substitua pelo caminho para o logo do seu projeto -->
+CRLV para JSON com IA
 
 ## Descrição
 
@@ -34,25 +34,25 @@ Transforme a complexidade dos documentos CRLV-e em dados estruturados e prontos 
 
   - Materialize é uma biblioteca de design front-end que proporciona uma experiência de design responsivo e elegante. Baseado no Material Design, oferece uma ampla gama de componentes e estilos prontos para usar.
 
-  ![Materialize](https://iconape.com/wp-content/png_logo_vector/materialize-logo.png) <!-- Substitua pelo caminho para uma imagem do Materialize -->
+  ![Materialize](https://img.shields.io/badge/Materialize-2.1.0-blue.svg)
 
 - **Gemini Pro** 1.5.0
 
   - Gemini Pro é um framework de design responsivo que complementa o Materialize, oferecendo estilos e componentes adicionais para criar interfaces de usuário modernas e atraentes.
 
-  ![Gemini Pro](https://freebiehive.com/wp-content/uploads/2023/12/Google-Gemini-AI-Logo-758x473.jpg) <!-- Substitua pelo caminho para uma imagem do Gemini Pro -->
+  ![Gemini Pro](https://img.shields.io/badge/Gemini%20Pro-1.5.0-blue.svg)
 
 - **PHP** 8.1+
 
   - O PHP é uma linguagem de script amplamente utilizada para desenvolvimento web. Utilizamos a versão 8.1 ou superior para aproveitar as melhorias de desempenho e recursos avançados.
 
-  ![PHP](https://logodownload.org/wp-content/uploads/2016/10/php-logo-8.png) <!-- Substitua pelo caminho para uma imagem do PHP -->
+  ![PHP](https://img.shields.io/badge/PHP-8.1%2B-blue.svg)
 
 - **smalot/pdfparser** 2.10
 
   - smalot/pdfparser é uma biblioteca PHP para extração de dados de PDFs. Facilitamos a leitura e o processamento de documentos PDF em nosso sistema.
 
-  ![smalot/pdfparser](https://www.kali.org/tools/pdf-parser/images/pdf-parser-logo.svg) <!-- Substitua pelo caminho para uma imagem do smalot/pdfparser -->
+  ![PDFParser](https://img.shields.io/badge/PDFParser-2.10-blue.svg)
 
 ## Como Executar o Projeto
 
@@ -72,10 +72,12 @@ Siga os passos abaixo para configurar e executar o projeto em seu ambiente local
    git clone https://github.com/eggcarvalho/Conversor-CRLV-para-JSON
    ```
 
-2. **Navegue para o Diretório do Projeto** cd Conversor-CRLV-para-JSON
+2. **Navegue para o Diretório do Projeto**
+
+   ```bash
+    cd Conversor-CRLV-para-JSON
    ```
 
-   ```
 3. **Instalar Composer**
 
    ```bash
