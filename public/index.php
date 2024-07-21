@@ -1,5 +1,19 @@
+<<<<<<< HEAD
 <!doctype html>
 <html lang="pt-BR">
+=======
+<!-- 
+  Copyright (c) 2024 @eggcarvalho
+ 
+  Este arquivo é parte do CRLV2JSON
+ 
+  O CRLV2JSON é licenciado sob a Licença MIT.
+  Consulte o arquivo LICENSE para obter mais informações.
+ 
+-->
+<!DOCTYPE html>
+<html lang="en">
+>>>>>>> 1536344 (🎨 style(Licença): Inserido licença MIT)
 
 <head>
     <title>DOC para JSON</title>
