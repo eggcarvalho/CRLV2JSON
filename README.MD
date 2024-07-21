@@ -82,10 +82,15 @@ Siga os passos abaixo para configurar e executar o projeto em seu ambiente local
 
    ```bash
    composer install
-
    ```
 
-4. **Vá até a pasta raiz e execute o PHP**
+4. **Vá até o arquivo App/GeminiController.php e insira sua Chave de API Gemini na linha 24**
+
+   ```code
+      private string $apiKey = 'SUA API KEY'; // Chave de API do Gemini Pro
+   ```
+
+5. **Vá até a pasta raiz e execute o PHP**
    ```bash
    php -S localhost:80 -t public
    ```
