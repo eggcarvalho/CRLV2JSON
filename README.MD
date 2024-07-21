@@ -69,13 +69,13 @@ Siga os passos abaixo para configurar e executar o projeto em seu ambiente local
 1. **Clone o Repositório**
 
    ```bash
-   git clone https://github.com/eggcarvalho/Conversor-CRLV-para-JSON
+   git clone https://github.com/eggcarvalho/CRLV2JSON
    ```
 
 2. **Navegue para o Diretório do Projeto**
 
    ```bash
-    cd Conversor-CRLV-para-JSON
+    cd CRLV2JSON
    ```
 
 3. **Instalar Composer**
