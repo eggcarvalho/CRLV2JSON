@@ -93,7 +93,7 @@ Siga os passos abaixo para configurar e executar o projeto em seu ambiente local
 
 ## Capturas de Tela
 
-![Print da Tela](https://i.ibb.co/f9yYhrz/Novo-Projeto.jpg)
+![Print da Tela](https://raw.githubusercontent.com/eggcarvalho/Conversor-CRLV-para-JSON/main/images/print1.jpg?token=GHSAT0AAAAAACQMVZUR2E3RYUOEKNN3XQH4ZU4QFKA)
 
 ## Contribuindo
 
