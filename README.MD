@@ -1,6 +1,6 @@
-# Nome do Projeto
+# CRLV2JSON
 
-CRLV para JSON com IA
+![LOGO](https://i.ibb.co/M21XXWW/Screenshot-1.jpg)
 
 ## Descrição
 
@@ -92,6 +92,8 @@ Siga os passos abaixo para configurar e executar o projeto em seu ambiente local
    O projeto estará em http://localhost:80
 
 ## Capturas de Tela
+
+![Print da Tela](https://i.ibb.co/f9yYhrz/Novo-Projeto.jpg)
 
 ## Contribuindo
 
