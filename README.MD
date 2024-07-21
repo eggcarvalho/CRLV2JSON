@@ -106,3 +106,5 @@ Este projeto está licenciado sob a Licença MIT.
 ## Contato
 
 Se tiver alguma dúvida, entre em contato com betofreitas16@gmail.com
+
+[@MIT](https://github.com/eggcarvalho/CRLV2JSON/blob/main/LICENSE.MD)
