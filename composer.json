@@ -1,4 +1,12 @@
+
 {
+    
+    "name": "eggcarvalho/crlv2json",
+    "type": "library",
+    "description": "Convert brazilian docs crlv to JSON",
+    "keywords": ["crlv2json","crlv to json", "crlv"],
+    "homepage": "https://github.com/eggcarvalho/CRLV2JSON/",
+    "license": "MIT",
     "require": {
         "smalot/pdfparser": "^2.10",
         "google-gemini-php/client": "^1.0",
